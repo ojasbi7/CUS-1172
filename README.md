@@ -67,4 +67,7 @@
 
 <h2> My Projects in this course </h2>
 <ul>
-<p><a href="#footer">Jump to footnote</a> <br /> <a name="footer"></a>Footnote content</p>
+<a href="#Basic-Profile-Information">Jump to Project 1</a>
+<br />
+<a name="footer"></a>Project 1
+
