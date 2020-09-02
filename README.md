@@ -1,22 +1,7 @@
 <html>
-
-<form> 
- <div>
-  <input type="text" placeholder = "Type your username" name = "username_field">
- </div>
- <div>
-  <label for ="gender_group"> Gender: </label>
-  <input name ="gender_group" type ="radio" value ="Male"> Male
-  <input name ="gender_group" type ="radio" value ="Female"> Female
- </div>
-</form>
-
  
 <h1> Ojasbi Dhungana </h1>
 <p><span style="text-decoration: underline;"> Project 1 </span></p>
-
-
-
 
 <hr>
 <h2> Basic Profile Information </h2>
