@@ -4,7 +4,12 @@
  <div>
   <input type="text" placeholder = "Type your username" name = "username_field">
  </div>
- </form>
+ <div>
+  <label for ="gender_group"> Gender: </label>
+  <input name ="gender_group" type ="radio" value ="Male"> Male
+  <input name ="gender_group" type ="radio" value ="Female"> Female
+ </div>
+</form>
 
  
 <h1> Ojasbi Dhungana </h1>
