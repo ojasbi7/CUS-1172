@@ -4,6 +4,14 @@
 <h1> Ojasbi Dhungana </h1>
 <p><span style="text-decoration: underline;"> Project 1 </span></p>
 
+<form> 
+ <div>
+  <input type="text" placeholder = "Type your username" name = "username_field">
+ </div>
+ </form>
+
+
+
 <hr>
 <h2> Basic Profile Information </h2>
 
