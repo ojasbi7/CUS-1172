@@ -66,8 +66,20 @@
 
 
 <h2> My Projects in this course </h2>
-<ul>
+<table>
+ <tr> 
+  <th> Project </th>
+  <th> Project Description</th>
+ </tr>
+ <tr>
+  <td> Project 1 </td>
+  <td> 
 <li>  The first project I have done in this course is create a profile page. This project is about creating your profile and adding information such as your Name, Education History, Hobbies etc. </li>
+  </td>
+  </tr>
+
+
+
 
 <a href="#Basic-Profile-Information">Jump to Project 1</a>
 <br />
