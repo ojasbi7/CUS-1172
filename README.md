@@ -69,5 +69,5 @@
 <ul>
 <a href="#Basic-Profile-Information">Jump to Project 1</a>
 <br />
-<a name="footer"></a>Project 1
+<a name="Project 1"></a>Project 1
 
