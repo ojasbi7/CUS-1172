@@ -72,7 +72,7 @@
   <th> Project Description</th>
  </tr>
  <tr>
-  <td> <a href="#Ojasbi-Dhungana"> Project 1</a>
+  <td> <a href="#Project-1"> Project 1</a>
 <br /> </td>
   <td> 
  The first project I have done in this course is create a profile page. This project is about creating your profile and adding information such as your Name, Education History, Hobbies etc.
