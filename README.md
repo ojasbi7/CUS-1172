@@ -64,3 +64,7 @@
  </ul>
 <hr>
 
+
+<h2> My Projects in this course </h2>
+<ul>
+<p><a href="#footer">Jump to footnote</a> <br /> <a name="footer"></a>Footnote content</p>
