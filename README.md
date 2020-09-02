@@ -2,8 +2,8 @@
  
  
 <h1> Ojasbi Dhungana </h1>
+<p><span style="text-decoration: underline;"> Project 1 </span></p>
 
-<div> Project 1 </div>
 <hr>
 <h2> Basic Profile Information </h2>
 
