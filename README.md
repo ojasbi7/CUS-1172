@@ -75,7 +75,7 @@
   <td> <a href="#Basic-Profile-Information"> Project 1</a>
 <br /> </td>
   <td> 
-<li>  The first project I have done in this course is create a profile page. This project is about creating your profile and adding information such as your Name, Education History, Hobbies etc. </li>
+ The first project I have done in this course is create a profile page. This project is about creating your profile and adding information such as your Name, Education History, Hobbies etc.
   </td>
   </tr>
 
