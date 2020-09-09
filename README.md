@@ -1,8 +1,5 @@
 <html>
  
-	<a id=top><a href="#Education Summary">Education</a> <a href="#Work">Working Experience</a> <a href="#Prog">Programming Skills</a> <a href="#Intr">General Interest Section</a><a href="#MV">Favorite Music Video</a><br>
-
-  
   <h1> Ojasbi Dhungana </h1>
 <p><span style="text-decoration: underline;"> Project 1 </span></p>
 
