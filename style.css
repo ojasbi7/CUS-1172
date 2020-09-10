@@ -1,10 +1,10 @@
 /* style.css */
 
 <style> 
-	 h1 {
+	#heading {
 		background-color: blue;
-		text-align: center;
-		color: red
+		test-align: center;
+		color:red
 	}
 	
 	h2 { 
