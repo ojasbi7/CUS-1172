@@ -67,7 +67,7 @@
 <h2>Favorite Music Video</h3><a id="MV">
 <p>Krish Chapcow
 	</p>
-	<iframe width="1440" height="651" src="https://www.youtube.com/embed/R6SHKRA92yY?list=LL2u3YbyVjxpnhdCIi_CSCKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		
+	<iframe width="980" height="450" src="https://www.youtube.com/embed/R6SHKRA92yY?list=LL2u3YbyVjxpnhdCIi_CSCKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		
 
 
 <h2> My Projects in this course </h2>
