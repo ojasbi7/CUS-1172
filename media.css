@@ -6,19 +6,19 @@ display: none;
 }
 }
 
-@media(max-width:640px){
-body{
+@media (max-width:640px){
+body {
   {background-color:blue;
     }
   }
 
-@media(min-width:641px)and(max-width:768px){
-  body{
+@media (min-width:641px)and(max-width:768px){
+  body {
     background-color:red;
   }
 }
 
-@media(min-width:769px){
+@media (min-width:769px){
   body {
     background-color:white;
   }
