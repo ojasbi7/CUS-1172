@@ -1,10 +1,10 @@
 /* style.css */
 
-<style> 
+
 	#heading {
-		background-color: blue;
+		background-color: red;
 		test-align: center;
-		color:red
+		color:black
 	}
 	
 	
@@ -12,7 +12,7 @@
 		text-align: left;
 		color: green
 	}
-</style>	
+	
 	
 
 
