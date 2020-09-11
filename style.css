@@ -1,11 +1,7 @@
 /* style.css */
 
 <style> 
-	#heading {
-		background-color: blue;
-		test-align: center;
-		color:red
-	}
+	
 	
 	h2 { 
 		text-align: left;
@@ -16,22 +12,3 @@
 
 
 
-.box_table>table {
-border-width:1px;
-border-style:solid;
-border-color:blue;
-border-collapse:collapse;
-width: 50%;
-}
-
-.box_table>table th, .box_table>table td{
-  border:1px solid red;
-  padding:5px;
-  text-align:center;
-}
-
-.box_table>table th {
-	background-color: lightgray;
-}
-
-</style>
