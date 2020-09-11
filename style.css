@@ -29,4 +29,9 @@ width: 50%;
   padding:5px;
   text-align:center;
 }
+
+.box_table>table th {
+	background-color: lightgreen;
+}
+
 </table>
