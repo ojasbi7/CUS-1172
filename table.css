@@ -1,17 +1,5 @@
 */ table.css */
 
-.box_table>table {
-border-width:1px;
-border-style:solid;
-border-color:blue;
-border-collapse:collapse;
-width: 50%;
-}
 
-.box_table>table th, .box_table>table td{
-  border:1px solid red;
-  padding:5px;
-  text-align:center;
-}
 
   
