@@ -1,0 +1,9 @@
+*/ table.css */
+
+.box_table>table {
+border-width:1px;
+border-style:solid;
+border-color:blue;
+border-collapse:collapse;
+width: 50%;
+}
