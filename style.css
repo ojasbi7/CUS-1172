@@ -1,7 +1,7 @@
 /* style.css */
 
 <style> 
-	h1 {
+	#heading {
 		background-color: blue;
 		test-align: center;
 		color:red
