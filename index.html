@@ -147,19 +147,28 @@
 	
 	<hr>
 	
-	<h2> <form>Contact Me:<br>  </h2> <a id="Contact">
-  		<ul>
-		<div>	
-		First name:<br>
-  			<input type="text" name="firstname"><br>
-  			Last name:<br>
- 			<input type="text" name="lastname">
-			<br> Email Address:<br>
-  			<input type="text" name="email">
+	<h3> Contact Me:<br>  </h3> <a id="Contact">
+		<div class="container">
+		<form>
+		<div class="form-group"
+		    <label> Name </label> 
+			<input type="text" class="form-control" placeholder="Add Name">
 			</div>
-			<input type="Submit" Value="Submit">
-			</form>
-		</ul>
+		
+		<div class="form-group"
+		    <label> Email </label> 
+			<input type="email" class="form-control" placeholder="Add Email">
+			</div>
+		
+		<div class="form-group"
+		    <label> Message </label> 
+			<textarea class="form-control" placeholder="Add Message"> </textarea>
+			</div>
+	<button type="submit" class="btn btn-default"> Submit </button>
+	
+		</form>
+	</container>
+	
 
 
 
