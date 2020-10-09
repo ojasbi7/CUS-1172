@@ -1,237 +1,32 @@
-<html>
+
+
+<html lang="en">
 <head>
-  
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="media.css">
-<link rel="stylesheet" href="media.css" media="max-width:700px">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet"href="Assignment 2.js">
-	</head>
+    <meta charset="UTF-8">
+    <title>Assigment 2</title>
 
-	<body>
-<body style="height:1500px">
+ <script src="index.js"> </script>
+</head>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-  <a class="nav-item" href="#Profile">Profile</a>
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#Education">Education</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#Working Experince">Working Experince</a>
-    </li>
-  </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#Faviorite Music">Faviorite Music</a>
-    </li>
-  </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#Contact Me">Contact Me</a>
-    </li>
-  </ul>
-</nav>
-</body>
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1>Ojasbi Dhungana</h1>      
-    	<p>Welcome to my Profile</p>
-  </div>
-</div>
+<body>
 
 <div>
+    <h2>Task List</h2>
 
-  <span class="badge badge-primary">Project 1</span><a id="Project1">
-	</div>
-
-	<hr>
-		
-<div class="container">
-  <h2>Profile Information</h2> <a id="Profile">
-  <div class="card" style="width:400px">
-    <img class="card-img-top" src="https://i.ibb.co/5x3Lf9s/ojasbi.png" alt="Card image" style="width:100%">
-    <div class="card-body">
-      <h4 class="card-title">Ojasbi Dhungana</h4>
-      <p class="card-text">My name is Ojasbi Dhungana. I am from Nepal. I am an undergraduate student at St. Johns University. My major is information technology and I currently do not have any minors.</p>
-      <a href="#" class="btn btn-primary">See Profile</a>
-    </div>
-  </div>
-  <br>
-  
- 
-<hr>
- <h1> Task List </h1>
-  <ul id="task_list">
-  </ul>
-  <form id="new-task">
-    <input id="task" autocomplete="off" autofocus placeholder="Task List" type="text">
+<form id="Tasks">
+    <input id="task" autocomplete="off" placeholder="Add Tasks" type="text">
+    </form>
+    <label for="priority">Choose a priority level:</label>   <select id="priority-change">
+        <option value="High"> High Priority </option>
+        <option value="Medium"> Medium Priority </option>
+        <option value="Low"> Low Priority </option>
+      </select>
+       <input id="submit" type="submit">  
+   
     
-    <label for="radio">Choose your current status:</label>    
-                      <p></p>                  
-    <input type="radio" name="status" value="completed"> Fulfilled <br>
-    <input type="radio" name="status" value="pending"> Unresolved <br>
-                                                                                                    
-  </form>
 
-     
-  <input id="submit" type="submit">  
-<hr>
 
-<h2> Education summary </h2> <a id="Education">
-
-  <div class="container">
-		<div class="row">
-			 <div class="col-md-8">
-				 <p class=screen_only> I graduated from William Cullen Bryant High School to receive my High School diploma. After graduation, I attended Monroe College to complete my Associate degree in Business Administration. After receiving my associate degree I transferred to St. Johns University and I am currently on the path to receive my bachelor's degree in  information technology.>
-			</div>
-		</div>
-</div>
-  
-
-  <hr>
-
-<h2> Work Experience/Internships  </h2> <a id="Working Experience">
-
-<ol>
-  <li> Salvation Army - Volunteer Services / November 2013 to May 2014 </li>
-</ol>
-
-<ul> 
-  <div class="container">
-		<div class="row">
-			 <div class="col-md-8">
-				 <p> Coordinated food, clothing and household items for disadvantaged individuals, and families. </p>
-			</div>
-		</div>
-</div>
-</ul>
- 
-<hr>
-
-<h2> Programming Skills section </h2>
-<ul>
-  <div class="container">
-		<div class="row">
-			 <div class="col-md-8">
-				 <p> I took 2 semesters of Computer Science and I learned about Java. We used the software called Eclipse to learn about it. Although I took 2 years of Computer Science, I would still consider my skills to be a beginner level. That is because I had a hard time understanding the professors as they were very unclear. </p>
-			</div>
-		</div>
-</div>
-	</ul>
-  
-  <hr>
-  
-  <h2> General Interests section </h2>
-  <ul>
- 
-  <div class="container">
-		<div class="row">
-			 <div class="col-md-8">
-				 <p> I have a lot of hobbies, one of them is playing soccer. I've been playing soccer since I was 6 years old and it's one of the only things in my life that cheers me up when I am down. Another one of my hobbies is traveling. Every summer and winter, I go to different places to Hike/ camp. Even if it's not a long distance journey I still love to go somewhere in my free time.</p>
-			</div>
-		</div>
-</div>
-	
-	</ul>
-  <hr>
-  
-  <h2> Favorite song, film, and TV show section </h2>
-  <ul>
-	  <div class="container">
-		<div class="row">
-			 <div class="col-md-8">
-				 <p>  My favorite song is a Nepali song called Allare by Deepak Bajracharya. My favorite film is a South Indian movie called KGF. My favorite TV show is Money Heist.  </p>
-			</div>
-		</div>
-</div>
-  </ul>
-  
-  <hr>
-  
-  <h2> Favorite Website section </h2>
-  <ul>
- <li> My Favorite website is Youtube. Youtube is my go-to website for anything. In youtube, there are millions of videos to watch to kill your boredom or if you want to gain some knowledge. From Comedy to instructional videos, the video creators for youtube has you covered.
-  <a href="https://www.youtube.com/" target = "_blank"> Click here to go to Youtube </a> </li>
- <li> Another one of my Favorite website is Facebook. With Facebook, I can connect to all my families and be in contact with them daily. My family is all over the world and they all use Facebook. With Facebook it has been so easy for me to see what my families and friends are up to.
-  <a href="https://www.facebook.com/" target = "_blank"> Click here to go to Facebook </a> </li>
- </ul>
-
-<hr>
-<ul>
-<h2>Favorite Music Video</h2> <a id="Faviorite Music">
-<p>Krish Chap cow
-	</p>
-	<iframe width="980" height="450" src="https://www.youtube.com/embed/R6SHKRA92yY?list=LL2u3YbyVjxpnhdCIi_CSCKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		
-</ul>
-<hr> 
-
-  
-  
-  
- 
-<div class="container">
-  <h2>My Projects in this course </h2>        
-  <table class="table table-hover">
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Project Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="#Project1"> Project 1</a></td>
-        <td> The first project I have done in this course is create a profile page. This project is about creating your profile and adding information such as your Name, Education History, Hobbies etc.
-</td>
-       
-      </tr>
-    
-    </tbody>
-  </table>
 </div>
 
-
-
-	
-	<hr>
-	
-	<h3> Contact Me:<br>  </h3> <a id="Contact Me">
-		<div class="container">
-		<form>
-		<div class="form-group"
-		    <label> Name </label> 
-			<input type="text" class="form-control" placeholder="Add Name">
-			</div>
-		
-		<div class="form-group"
-		    <label> Email </label> 
-			<input type="email" class="form-control" placeholder="Add Email">
-			</div>
-		
-		<div class="form-group"
-		    <label> Message </label> 
-			<textarea class="form-control" placeholder="Add Message"></textarea>
-		</div>
-	<div class="form-group form-check">
-      		<label class="form-check-label">
-        <input class="form-check-input" type="checkbox" name="remember"> Remember me
-      </label>
-    </div>
-	
-	
-	<button type="submit" class="btn btn-primary"> Submit </button>
-	
-		</form>
-	</container>
-	
-
-
-
-
-
-
-
-
+</body>
+</html>
