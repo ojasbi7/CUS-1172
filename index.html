@@ -67,21 +67,15 @@
   <ul id="task_list">
   </ul>
   <form id="new-task">
-    <input id="task" autocomplete="off" autofocus placeholder="Task Title" type="text">
+    <input id="task" autocomplete="off" autofocus placeholder="Task List" type="text">
     
-    <label for="radio">Choose the current status:</label>    
+    <label for="radio">Choose your current status:</label>    
                       <p></p>                  
-    <input type="radio" name="status" value="completed"> Completed <br>
-    <input type="radio" name="status" value="pending"> Pending <br>
+    <input type="radio" name="status" value="completed"> Fulfilled <br>
+    <input type="radio" name="status" value="pending"> Unresolved <br>
                                                                                                     
   </form>
 
-<label for="priority">Choose a priority level:</label>
-<select name="priority" id="priority" form="new-task">
-  <option value="high">High</option>
-  <option value="medium">Medium</option>
-  <option value="low">Low</option>
-</select>
      
   <input id="submit" type="submit">  
 <hr>
